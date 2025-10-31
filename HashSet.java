@@ -1,3 +1,10 @@
+/*
+
+    Time Complexity: O(1) for all operations
+    Space Complexity: O(M) where M is the range for val. Here it is O(10^6) whcih could be considred as O(1), but it increases linearly over the range
+
+*/
+
 class MyHashSet {
 
     int n;
